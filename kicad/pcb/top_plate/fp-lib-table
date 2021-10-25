@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MechChurch-parts)(type KiCad)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/MechChurch-parts.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name keebio)(type Legacy)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/keebio-components-master/keebio.lib)(options "")(descr ""))
+  (lib (name New_Library)(type Legacy)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/New_Library.lib)(options "")(descr ""))
+  (lib (name keysw-keyboard_parts)(type Legacy)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/keysw-keyboard_parts.lib)(options "")(descr ""))
+)

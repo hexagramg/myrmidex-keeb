@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name MechChurch-parts)(type KiCad)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/MechChurch-parts.pretty)(options "")(descr ""))
+  (lib (name scamander)(type KiCad)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/scamander.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/keyboard_parts.pretty)(options "")(descr ""))
+)

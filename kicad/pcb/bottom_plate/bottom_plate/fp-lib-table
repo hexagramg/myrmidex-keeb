@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name scamander)(type KiCad)(uri D:/new-git/myrmidex-keeb/kicad/dependencies/scamander.pretty)(options "")(descr ""))
+)

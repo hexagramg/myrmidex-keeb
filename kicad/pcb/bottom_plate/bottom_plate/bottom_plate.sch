@@ -1,0 +1,214 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 6171D56C
+P 2950 2300
+F 0 "H1" H 3050 2349 50  0000 L CNN
+F 1 "MountingHole_Pad" H 3050 2258 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad" H 2950 2300 50  0001 C CNN
+F 3 "~" H 2950 2300 50  0001 C CNN
+	1    2950 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 6171DDDA
+P 2950 2400
+F 0 "#PWR0101" H 2950 2150 50  0001 C CNN
+F 1 "GND" H 2955 2227 50  0000 C CNN
+F 2 "" H 2950 2400 50  0001 C CNN
+F 3 "" H 2950 2400 50  0001 C CNN
+	1    2950 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 6171ED28
+P 1900 2600
+F 0 "#PWR0102" H 1900 2350 50  0001 C CNN
+F 1 "GND" H 1905 2427 50  0000 C CNN
+F 2 "" H 1900 2600 50  0001 C CNN
+F 3 "" H 1900 2600 50  0001 C CNN
+	1    1900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 6171F562
+P 1900 2600
+F 0 "#FLG0101" H 1900 2675 50  0001 C CNN
+F 1 "PWR_FLAG" H 1900 2773 50  0000 C CNN
+F 2 "" H 1900 2600 50  0001 C CNN
+F 3 "~" H 1900 2600 50  0001 C CNN
+	1    1900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 61720034
+P 4100 2300
+F 0 "H2" H 4200 2349 50  0000 L CNN
+F 1 "MountingHole_Pad" H 4200 2258 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad" H 4100 2300 50  0001 C CNN
+F 3 "~" H 4100 2300 50  0001 C CNN
+	1    4100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 6172003A
+P 4100 2400
+F 0 "#PWR0103" H 4100 2150 50  0001 C CNN
+F 1 "GND" H 4105 2227 50  0000 C CNN
+F 2 "" H 4100 2400 50  0001 C CNN
+F 3 "" H 4100 2400 50  0001 C CNN
+	1    4100 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 61720570
+P 5150 2300
+F 0 "H3" H 5250 2349 50  0000 L CNN
+F 1 "MountingHole_Pad" H 5250 2258 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad" H 5150 2300 50  0001 C CNN
+F 3 "~" H 5150 2300 50  0001 C CNN
+	1    5150 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 61720576
+P 5150 2400
+F 0 "#PWR0104" H 5150 2150 50  0001 C CNN
+F 1 "GND" H 5155 2227 50  0000 C CNN
+F 2 "" H 5150 2400 50  0001 C CNN
+F 3 "" H 5150 2400 50  0001 C CNN
+	1    5150 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 61720B54
+P 6250 2300
+F 0 "H4" H 6350 2349 50  0000 L CNN
+F 1 "MountingHole_Pad" H 6350 2258 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad" H 6250 2300 50  0001 C CNN
+F 3 "~" H 6250 2300 50  0001 C CNN
+	1    6250 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 61720B5A
+P 6250 2400
+F 0 "#PWR0105" H 6250 2150 50  0001 C CNN
+F 1 "GND" H 6255 2227 50  0000 C CNN
+F 2 "" H 6250 2400 50  0001 C CNN
+F 3 "" H 6250 2400 50  0001 C CNN
+	1    6250 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H5
+U 1 1 617253FA
+P 2950 2950
+F 0 "H5" H 3050 2999 50  0000 L CNN
+F 1 "MountingHole_Pad" H 3050 2908 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad" H 2950 2950 50  0001 C CNN
+F 3 "~" H 2950 2950 50  0001 C CNN
+	1    2950 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 61725400
+P 2950 3050
+F 0 "#PWR0106" H 2950 2800 50  0001 C CNN
+F 1 "GND" H 2955 2877 50  0000 C CNN
+F 2 "" H 2950 3050 50  0001 C CNN
+F 3 "" H 2950 3050 50  0001 C CNN
+	1    2950 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H6
+U 1 1 61725406
+P 4100 2950
+F 0 "H6" H 4200 2999 50  0000 L CNN
+F 1 "MountingHole_Pad" H 4200 2908 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad" H 4100 2950 50  0001 C CNN
+F 3 "~" H 4100 2950 50  0001 C CNN
+	1    4100 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 6172540C
+P 4100 3050
+F 0 "#PWR0107" H 4100 2800 50  0001 C CNN
+F 1 "GND" H 4105 2877 50  0000 C CNN
+F 2 "" H 4100 3050 50  0001 C CNN
+F 3 "" H 4100 3050 50  0001 C CNN
+	1    4100 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H7
+U 1 1 61725412
+P 5150 2950
+F 0 "H7" H 5250 2999 50  0000 L CNN
+F 1 "MountingHole_Pad" H 5250 2908 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad" H 5150 2950 50  0001 C CNN
+F 3 "~" H 5150 2950 50  0001 C CNN
+	1    5150 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 61725418
+P 5150 3050
+F 0 "#PWR0108" H 5150 2800 50  0001 C CNN
+F 1 "GND" H 5155 2877 50  0000 C CNN
+F 2 "" H 5150 3050 50  0001 C CNN
+F 3 "" H 5150 3050 50  0001 C CNN
+	1    5150 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H8
+U 1 1 6172541E
+P 6250 2950
+F 0 "H8" H 6350 2999 50  0000 L CNN
+F 1 "MountingHole_Pad" H 6350 2908 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO14580_Pad" H 6250 2950 50  0001 C CNN
+F 3 "~" H 6250 2950 50  0001 C CNN
+	1    6250 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 61725424
+P 6250 3050
+F 0 "#PWR0109" H 6250 2800 50  0001 C CNN
+F 1 "GND" H 6255 2877 50  0000 C CNN
+F 2 "" H 6250 3050 50  0001 C CNN
+F 3 "" H 6250 3050 50  0001 C CNN
+	1    6250 3050
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
