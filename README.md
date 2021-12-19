@@ -20,6 +20,8 @@ To build this keyboard you will need:
 - 48 mx compatible switches of your choice
 - Pro-Micro x2
 - Trrs cable
+
+
 There are places for m2 standoffs, I used these:
 - m2 4mm male-female standoff x16 (3mm is possible to fit) https://aliexpress.ru/item/4001271908929.html This one goes between pcb and bottom plate
 - m2 3mm female-female standoff x16 https://aliexpress.ru/item/4001271908929.html This one between pcb and top plate
