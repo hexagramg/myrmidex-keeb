@@ -4,7 +4,7 @@ Supports controllers with Pro-Micro layout, has footprints for power switch and 
 
 ![Myrmidex keyboard](https://live.staticflickr.com/65535/51756809526_140cf8454c_k.jpg)
 
-In this repository you will find gerbers and schematics. Gerbers were exported with jlcpcb support in mind. Schematics was made in kicad. 
+In this repository you will find gerbers and schematics. Gerbers were exported with jlcpcb support in mind. Schematics were made in kicad. 
 
 
 
